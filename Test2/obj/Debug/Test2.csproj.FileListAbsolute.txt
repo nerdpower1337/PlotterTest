@@ -1,0 +1,10 @@
+C:\Users\rdanv\source\repos\PlotterTest\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\rdanv\source\repos\PlotterTest\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\rdanv\source\repos\PlotterTest\Test2\bin\Debug\Test2.exe.config
+C:\Users\rdanv\source\repos\PlotterTest\Test2\bin\Debug\Test2.exe
+C:\Users\rdanv\source\repos\PlotterTest\Test2\bin\Debug\Test2.pdb
+C:\Users\rdanv\source\repos\PlotterTest\Test2\bin\Debug\Gcodes.dll
+C:\Users\rdanv\source\repos\PlotterTest\Test2\bin\Debug\Gcodes.pdb
+C:\Users\rdanv\source\repos\PlotterTest\Test2\obj\Debug\Test2.csproj.CopyComplete
+C:\Users\rdanv\source\repos\PlotterTest\Test2\obj\Debug\Test2.exe
+C:\Users\rdanv\source\repos\PlotterTest\Test2\obj\Debug\Test2.pdb

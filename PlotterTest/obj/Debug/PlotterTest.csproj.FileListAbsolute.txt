@@ -1,0 +1,13 @@
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\bin\Debug\PlotterTest.exe.config
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\bin\Debug\PlotterTest.exe
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\bin\Debug\PlotterTest.pdb
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\bin\Debug\Gcodes.dll
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\bin\Debug\Gcodes.pdb
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.csprojAssemblyReference.cache
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.Form1.resources
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.Properties.Resources.resources
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.csproj.GenerateResource.cache
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.csproj.CoreCompileInputs.cache
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.csproj.CopyComplete
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.exe
+C:\Users\rdanv\source\repos\PlotterTest\PlotterTest\obj\Debug\PlotterTest.pdb
